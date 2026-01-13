@@ -27,7 +27,6 @@ git clone https://github.com/usuario/AddToCartAnimationWPF.git
 
 ## 👧🏽 Autor
 Desarrollado por María José (Enlace al perfil: )
-
 Si te resulta útil este proyecto, no te olvides de dejar una ⭐ en el repositorio.
 
 !Nos vemos en una próxima!👋🏽
