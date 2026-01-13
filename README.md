@@ -1,12 +1,12 @@
 # AddToCartAnimationWPF
 
-Proyecto de ejemplo desarrollado con  
+Aplicación **WPF** que implementa una animación visual de “Agregar al carrito”, demostrando el uso de animaciones, estilos y controles en C# para mejorar la experiencia de usuario.
 
 
 ## 📑 Tabla de contenido
 
 - [Descripción](#-descripción)
-- [Características](#-características)
+- [Características](#-herramientas-utilizadas-para-la-implementación)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [Estructura del proyecto](#-estructura-del-proyecto)
 - [Cómo ejecutar el proyecto](#️-cómo-ejecutar-el-proyecto)
@@ -19,16 +19,27 @@ Proyecto de ejemplo desarrollado con
 
 
 
+🛠️ Tecnologías utilizadas
+
+Lenguaje: C#
+
+Framework: .NET (WPF)
+
+UI: XAML
+
+IDE recomendado: Visual Studio
 
 
-📌 Descripción
 
-Este repositorio demuestra cómo crear una animación de Add to Cart en una aplicación de escritorio WPF, utilizando Storyboards, animaciones personalizadas y controles visuales para simular el movimiento de un producto hacia el carrito de compras.
 
-El proyecto está pensado como:
+## 📌 Descripción
 
-Ejemplo práctico de animaciones en WPF
+Este repositorio muestra un ejemplo de como crear una animación *Add To Card* en **WPF** utilizando Canvas para simular el movimiento de un producto hacia el carrito de compras.
 
-Referencia para mejorar la experiencia de usuario (UX)
+## Herramientas utilizadas para la implementación 
+- **Lenguaje**: C#
+- **Framework**: .NET (WPF)
+- **UI**: XAML
+- **IDE recomendado para la ejecución** Visual Studio - Visual Studio Code
 
-Base para proyectos de e‑commerce o aplicaciones interactivas
+- 
