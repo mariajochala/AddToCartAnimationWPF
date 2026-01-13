@@ -21,7 +21,9 @@ Este repositorio muestra un ejemplo de como crear una animación *Add To Card* e
 
 ## ▶️ Cómo ejecutar el proyecto
 1. Clona el repositorio
+```bash
 [git clone https://github.com/usuario/AddToCartAnimationWPF.git](https://github.com/mariajochala/AddToCartAnimationWPF.git)
+```
 2. Abre el archivo **.sln** en tu IDE favorito. Ejemplo: Visual Studio - Visual Studio Code
 3. ⚙️Restaura los paquetes en caso de ser necesario
 4. Ejecuta el proyecto.
