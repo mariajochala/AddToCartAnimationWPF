@@ -1,7 +1,7 @@
 # AddToCartAnimationWPF
 
 Aplicación **WPF** que implementa una animación visual de “Agregar al carrito”, demostrando el uso de animaciones, estilos y controles en C# para mejorar la experiencia de usuario.
-<img width="1102" height="697" alt="image" src="https://github.com/user-attachments/assets/3e2008e9-ca1b-4e21-90a9-ba9cea802be4" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3e2008e9-ca1b-4e21-90a9-ba9cea802be4" />
 
 
 
